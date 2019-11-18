@@ -3,3 +3,4 @@ master
 player
 enemy
 obj
+other
