@@ -6,3 +6,4 @@ obj
 other
 NPC
 Sound
+Sound2
