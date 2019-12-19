@@ -6,4 +6,4 @@ obj
 other
 NPC
 Sound
-Sound2
+BGM
