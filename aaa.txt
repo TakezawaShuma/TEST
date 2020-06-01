@@ -7,3 +7,5 @@ other
 NPC
 Sound
 BGM
+Title
+
